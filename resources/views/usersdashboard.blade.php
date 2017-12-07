@@ -28,7 +28,7 @@
 			width: 1200px;
 			height: 50%;
 
-			padding:50px 0px 50px 50px;
+			padding:50px 0px 50px 300px;
 
 
 		}
@@ -37,13 +37,16 @@
 			float: left;
 			width: 500px;
 			height: auto;
-			display: inline-block;
+			ddisplay: inline-block;
 			}
 
 			#leftnav{
 			float: left;
 
 			width: 700px;	
+
+
+			
 
 			}
 			#intro{

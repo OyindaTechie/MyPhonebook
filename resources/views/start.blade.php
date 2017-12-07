@@ -19,16 +19,22 @@
 		#content{
 
 			width: auto;
+			height: 50%;
 
 		}
 			#rightnav{
-			ggfloat: right;	
-			width: 400px;
+			float: left;	
+			width: 600px;
+			margin-top: 90px;
+			
 			}
 
 			#leftnav{
 			float: left;
-			width: 900px;	
+			width: 700px;
+			margin-left:200px;
+			margin-top: 50px; 
+				
 			}
 
 
@@ -36,7 +42,7 @@
 </head>
 <body>
 	<div id="header">
-		<span style="color: #fff; text-decoration: none;"> My Phonebook App </span>
+		<span style="color: #fff; text-decoration: none; font-weight: bold; font-size: 24px;"> My Phonebook App </span>
 	</div>
 	<div id="content">
 		<div id="leftnav">
